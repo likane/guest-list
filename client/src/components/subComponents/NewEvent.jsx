@@ -14,11 +14,11 @@ class NewEvent extends Component {
 			      <div className="row">
 			        <div className="input-field col s6 hoverable">
 			          <input placeholder="Placeholder" id="first_name" type="text" className="validate">
-			          <label for="first_name">First Name</label>
+			          <label for="headliner">Headliner</label>
 			        </div>
 			        <div className="input-field col s6 hoverable">
 			          <input id="last_name" type="text" className="validate">
-			          <label for="last_name">Last Name</label>
+			          <label for="last_name"></label>
 			        </div>
 			      </div>
 			      <div className="row">

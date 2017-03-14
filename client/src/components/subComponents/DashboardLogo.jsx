@@ -15,7 +15,7 @@ class DashboardLogo extends Component {
 				
 					<div className="col s12 m12 l12 valign-wrapper" style={{padding: '0'}}>
 						<h3 className="hoverable center-align">GL</h3>
-						<a class="waves-effect waves-teal btn-flat center-align">Button</a>
+						<a className="waves-effect waves-teal btn-flat center-align">Button</a>
 					</div>
 				</div>
 			</div>
